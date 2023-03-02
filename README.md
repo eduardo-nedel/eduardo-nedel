@@ -4,6 +4,4 @@
   <img height="150em" src="https://github-readme-stats-eduardo-nedel.vercel.app/api/top-langs/?username=eduardo-nedel&layout=compact&include_all_commits=true&count_private=true&theme=jolly&langs_count=10"/>
 </div>
 
-<div>
-  ![Snake animation](https://github.com/eduardo-nedel/eduardo-nedel/blob/output/github-contribution-grid-snake.svg)
-  </div>
+![Snake animation](https://github.com/eduardo-nedel/eduardo-nedel/blob/output/github-contribution-grid-snake.svg)
